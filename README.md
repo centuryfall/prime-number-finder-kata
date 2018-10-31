@@ -15,3 +15,7 @@ Updates: 10/24/2018 1:15PM: Created 10/29/2018 12:17PM: Added the methods, test 
 0/29/2018 12:28PM: Updates to main methods. Moving to ConsolePrinter now. 
 10/29/2018 1:36PM: Found issue with Big-O time. Refactored this and changed around methods to only iterate when a number's divisors array has a length less than 2.
 10/29 8:57PM: Finalized the project.
+
+
+Help from:
+https://stackoverflow.com/a/37330629 for testing RSpec with example console inputs
